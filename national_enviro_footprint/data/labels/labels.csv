@@ -1,9 +1,0 @@
-region_name,sector_category,final_demand_category,value_added_category,extension_name
-OECD,Food,Final consumption expenditure by household,value_added,CO2 emissions (unit: tonnes/year)
-BRICS,Clothing,Final consumption expenditure by NPISHs,,Blue water consumption (unit: million m3/year)
-ROW,Shelter,Final consumption expenditure by government,,Employment (unit: 1000 people/year)
-,Construction,Gross capital formation,,
-,Manufactured products,,,
-,Mobility,,,
-,Trade,,,
-,Services,,,
