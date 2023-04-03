@@ -16,7 +16,7 @@ Exercises for the advanced course on EEIOA at Leiden University CML
 - [IOT & National accounts](scripts/01_IOT_&_National_accounts)
 - [Supply and use tables](scripts/02_supply_&_use_tables.ipynb)
 - [Supply chain linkages - Two IO models: Leontief v. Ghosh](scripts/03_supply_chain_linkages.ipynb)
-- Environmental footprints of nations
+- [Environmental footprints of nations](scripts/04_national_environmental_footprint.ipynb)
 - Introduction to EXIOBASE
 - MRIO seminal works
 - Mid-term exam
