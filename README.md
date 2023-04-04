@@ -11,14 +11,12 @@ Exercises for the advanced course on EEIOA at Leiden University CML
 
 ### Content
 
-- [Recap of SRIO from MAPP course](scripts/00a_MAPP_SRIO.ipynb)
-- [Recap of MRIO from MAPP course](scripts/00b_MAPP_MRIO.ipynb)
 - [IOT & National accounts](scripts/01_IOT_&_National_accounts)
 - [Supply and use tables](scripts/02_supply_&_use_tables.ipynb)
 - [Supply chain linkages - Two IO models: Leontief v. Ghosh](scripts/03_supply_chain_linkages.ipynb)
 - [Environmental footprints of nations](scripts/04_national_environmental_footprint.ipynb)
-- Introduction to EXIOBASE
-- MRIO seminal works
+- [Introduction to EXIOBASE](scripts/05_exiobase_introduction.ipynb)
+- [MRIO seminal works](scripts/06_MRIO_seminal_works.ipynb)
 - Mid-term exam
 - Technology-adjusted CBA
 - Structural decomposition analysis
