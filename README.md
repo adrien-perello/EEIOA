@@ -17,7 +17,8 @@ Exercises for the advanced course on EEIOA at Leiden University CML
 - [Environmental footprints of nations](scripts/04_national_environmental_footprint.ipynb)
 - [Introduction to EXIOBASE](scripts/05_exiobase_introduction.ipynb)
 - [MRIO seminal works](scripts/06_MRIO_seminal_works.ipynb)
-- Mid-term exam
+- [Mid-term - mock exam](scripts/07_mock_exam.ipynb)
+- [Mid-term - additional practice questions](scripts/08_mock_exam_extra.ipynb)
 - Technology-adjusted CBA
 - Structural decomposition analysis
 - Modeling circularity interventions
