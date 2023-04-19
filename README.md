@@ -17,10 +17,10 @@ Exercises for the advanced course on EEIOA at Leiden University CML
 - [Environmental footprints of nations](scripts/04_national_environmental_footprint.ipynb)
 - [Introduction to EXIOBASE](scripts/05_exiobase_introduction.ipynb)
 - [MRIO seminal works](scripts/06_MRIO_seminal_works.ipynb)
-- [Mid-term - mock exam](scripts/07_mock_exam.ipynb)
-- [Mid-term - additional practice questions](scripts/08_mock_exam_extra.ipynb)
+- [Mid-term - mock exam](scripts/mock_exam.ipynb)
+- [Mid-term - additional practice questions](scripts/mock_exam_extra.ipynb)
+- [Waste IO](scripts/07_waste_IO.ipynb)
+- Physical and Hybrid IO tables
 - Technology-adjusted CBA
 - Structural decomposition analysis
 - Modeling circularity interventions
-- Waste IO
-- Physical and Hybrid IO tables
