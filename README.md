@@ -11,15 +11,15 @@ Exercises for the advanced course on EEIOA at Leiden University CML
 
 ### Content
 
-- [IOT & National accounts](scripts/01_IOT_&_National_accounts)
-- [Supply and use tables](scripts/02_supply_&_use_tables.ipynb)
-- [Supply chain linkages - Two IO models: Leontief v. Ghosh](scripts/03_supply_chain_linkages.ipynb)
-- [Environmental footprints of nations](scripts/04_national_environmental_footprint.ipynb)
-- [Introduction to EXIOBASE](scripts/05_exiobase_introduction.ipynb)
-- [MRIO seminal works](scripts/06_MRIO_seminal_works.ipynb)
-- [Mid-term - mock exam](scripts/mock_exam.ipynb)
-- [Mid-term - additional practice questions](scripts/mock_exam_extra.ipynb)
-- [Waste IO](scripts/07_waste_IO.ipynb)
+- [IOT & National accounts](notebooks/01_IOT_&_National_accounts)
+- [Supply and use tables](notebooks/02_supply_&_use_tables.ipynb)
+- [Supply chain linkages - Two IO models: Leontief v. Ghosh](notebooks/03_supply_chain_linkages.ipynb)
+- [Environmental footprints of nations](notebooks/04_national_environmental_footprint.ipynb)
+- [Introduction to EXIOBASE](notebooks/05_exiobase_introduction.ipynb)
+- [MRIO seminal works](notebooks/06_MRIO_seminal_works.ipynb)
+- [Mid-term - mock exam](notebooks/mock_exam.ipynb)
+- [Mid-term - additional practice questions](notebooks/mock_exam_extra.ipynb)
+- [Waste IO](notebooks/07_waste_IO.ipynb)
 - Physical and Hybrid IO tables
 - Technology-adjusted CBA
 - Structural decomposition analysis
