@@ -19,7 +19,7 @@ Exercises for the advanced course on EEIOA at Leiden University CML
 - [MRIO seminal works](notebooks/06_MRIO_seminal_works.ipynb)
 - [Mid-term - mock exam](notebooks/mock_exam.ipynb)
 - [Mid-term - additional practice questions](notebooks/mock_exam_extra.ipynb)
-- [Mid-term exam](notebooks/mock_exam.ipynb)
+- [Mid-term exam](notebooks/mid_term_exam.ipynb)
 - [Waste IO](notebooks/07_waste_IO.ipynb)
 - Physical and Hybrid IO tables
 - Technology-adjusted CBA
