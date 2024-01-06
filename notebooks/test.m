@@ -105,11 +105,11 @@ for s = 1:163
         E_FSsec_FDreg(s,:) = sum(E_FS_FDreg(index_matrix_P(:,s),:));  % index_matrix_P = sector_labels
 end
 
-E_FDreg_FSsec = E_FSsec_FDreg';   % ! DIFF COMPARED TO METALS
+E_FDreg_FSsec = E_FSsec_FDreg';
 
-% ! Link Tsec Treg 
+% Link Tsec Treg
 E_T = sum(E_P_T)';  % sum along the rows (i.e. 'axis=0' in numpy) --> row vector which then transposed
-E_Tsec_Treg = vec2mat(E_T,163)';
+E_Tsec_Treg = vec2mat(E_T,163)'; % reshape to 189 (rows) x 163 (cols) and then transpose
 
 % store data 
 datapath = ['BD_mining_study_results/Nickel_mining/'];
@@ -157,7 +157,7 @@ E_Preg_FDreg_agg_shares = Agg_Preg' * E_Preg_FDreg * Agg_Preg ./ sum(sum(E_Preg_
 Compiled_sec(:,2) = sum(E_FDreg_FSsec)' ./ sum(sum(E_FDreg_FSsec));
 Compiled_sec(:,1) = sum(E_Tsec_Treg,2) ./ sum(sum(E_Tsec_Treg));
 
-% aggregate FSsec % !! here
+% aggregate FSsec
 
 construction = [112:113];
 electronics = [84:87];
