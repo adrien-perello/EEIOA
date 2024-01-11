@@ -1,0 +1,1233 @@
+source_stage,source_country,target_stage,target_country,value
+mining,Australia,processing,Australia,136.3948714878209
+mining,Australia,processing,Belgium,0.3925522636949896
+mining,Australia,processing,Brazil,0.2435014024587439
+mining,Australia,processing,Bulgaria,1.3646886024580722
+mining,Australia,processing,Canada,0.6802600164775724
+mining,Australia,processing,China,69.81298375498872
+mining,Australia,processing,Germany,2.9399390040719515
+mining,Australia,processing,India,26.761521386723718
+mining,Australia,processing,Indonesia,0.5082756859687251
+mining,Australia,processing,Japan,17.107552000092095
+mining,Australia,processing,Mexico,0.4679020462101131
+mining,Australia,processing,Netherlands,0.1172514803600928
+mining,Australia,processing,Poland,0.2034963432957726
+mining,Australia,processing,South Korea,8.359539826255583
+mining,Australia,processing,Russia,0.06639232278257738
+mining,Australia,processing,Spain,0.5683790378450988
+mining,Australia,processing,USA,1.558135878596221
+mining,Australia,processing,RoW Asia Pacific,9.529018715679547
+mining,Australia,processing,RoW America,0.7015294604423279
+mining,Australia,processing,RoW Africa,0.3422532302803799
+mining,Australia,processing,RoW Middle East,1.6459939316791399
+mining,Australia,processing,RoW Europe,3.894318275156525
+mining,Belgium,processing,Australia,0.0
+mining,Belgium,processing,Belgium,0.0
+mining,Belgium,processing,Brazil,0.0
+mining,Belgium,processing,Bulgaria,0.0
+mining,Belgium,processing,Canada,0.0
+mining,Belgium,processing,China,0.0
+mining,Belgium,processing,Germany,0.0
+mining,Belgium,processing,India,0.0
+mining,Belgium,processing,Indonesia,0.0
+mining,Belgium,processing,Japan,0.0
+mining,Belgium,processing,Mexico,0.0
+mining,Belgium,processing,Netherlands,0.0
+mining,Belgium,processing,Poland,0.0
+mining,Belgium,processing,South Korea,0.0
+mining,Belgium,processing,Russia,0.0
+mining,Belgium,processing,Spain,0.0
+mining,Belgium,processing,USA,0.0
+mining,Belgium,processing,RoW Asia Pacific,0.0
+mining,Belgium,processing,RoW America,0.0
+mining,Belgium,processing,RoW Africa,0.0
+mining,Belgium,processing,RoW Middle East,0.0
+mining,Belgium,processing,RoW Europe,0.0
+mining,Brazil,processing,Australia,0.18491269905120428
+mining,Brazil,processing,Belgium,0.2991822671574139
+mining,Brazil,processing,Brazil,38.503982985158586
+mining,Brazil,processing,Bulgaria,1.1962660619821708
+mining,Brazil,processing,Canada,0.23246645255041498
+mining,Brazil,processing,China,12.039076428871063
+mining,Brazil,processing,Germany,4.968389612112894
+mining,Brazil,processing,India,3.6379529101434094
+mining,Brazil,processing,Indonesia,0.07582997313821502
+mining,Brazil,processing,Japan,0.38992598773990317
+mining,Brazil,processing,Mexico,0.18629048218838004
+mining,Brazil,processing,Netherlands,0.17167185806660365
+mining,Brazil,processing,Poland,0.11536555584116716
+mining,Brazil,processing,South Korea,3.209105448225317
+mining,Brazil,processing,Russia,0.019972278540140432
+mining,Brazil,processing,Spain,1.0839990651416722
+mining,Brazil,processing,USA,2.3957114405146083
+mining,Brazil,processing,RoW Asia Pacific,0.9842799984443721
+mining,Brazil,processing,RoW America,12.235971402161457
+mining,Brazil,processing,RoW Africa,0.21476547398476029
+mining,Brazil,processing,RoW Middle East,0.6180635888773361
+mining,Brazil,processing,RoW Europe,3.8852082024023993
+mining,Bulgaria,processing,Australia,0.03183750894168477
+mining,Bulgaria,processing,Belgium,3.180951742270793
+mining,Bulgaria,processing,Brazil,0.014719109751443585
+mining,Bulgaria,processing,Bulgaria,66.01291533625322
+mining,Bulgaria,processing,Canada,0.07734055257814207
+mining,Bulgaria,processing,China,34.8157950997603
+mining,Bulgaria,processing,Germany,3.467685522718557
+mining,Bulgaria,processing,India,0.08038896528695497
+mining,Bulgaria,processing,Indonesia,0.014816719279404507
+mining,Bulgaria,processing,Japan,0.0587767812053196
+mining,Bulgaria,processing,Mexico,0.039243214873790504
+mining,Bulgaria,processing,Netherlands,0.16964450344478335
+mining,Bulgaria,processing,Poland,0.17010515452504596
+mining,Bulgaria,processing,South Korea,0.9222612258172361
+mining,Bulgaria,processing,Russia,0.07476763300891814
+mining,Bulgaria,processing,Spain,0.15202052315744216
+mining,Bulgaria,processing,USA,0.5902167034376514
+mining,Bulgaria,processing,RoW Asia Pacific,0.6554922736473902
+mining,Bulgaria,processing,RoW America,0.01306679919352552
+mining,Bulgaria,processing,RoW Africa,0.293068007574653
+mining,Bulgaria,processing,RoW Middle East,0.5362882639178949
+mining,Bulgaria,processing,RoW Europe,15.562239528680283
+mining,Canada,processing,Australia,0.16243884641418574
+mining,Canada,processing,Belgium,0.4919797689724913
+mining,Canada,processing,Brazil,0.49061593977635615
+mining,Canada,processing,Bulgaria,0.8520115512550398
+mining,Canada,processing,Canada,211.0116708764493
+mining,Canada,processing,China,48.049174604238196
+mining,Canada,processing,Germany,3.521292548170171
+mining,Canada,processing,India,7.861332624637722
+mining,Canada,processing,Indonesia,0.17099528946381834
+mining,Canada,processing,Japan,19.93534482708681
+mining,Canada,processing,Mexico,0.7913664621680738
+mining,Canada,processing,Netherlands,0.38168633183989087
+mining,Canada,processing,Poland,0.3458027057760537
+mining,Canada,processing,South Korea,16.733458801109585
+mining,Canada,processing,Russia,0.028362656443969132
+mining,Canada,processing,Spain,2.1128778101989063
+mining,Canada,processing,USA,22.8035188656908
+mining,Canada,processing,RoW Asia Pacific,3.3816324902673633
+mining,Canada,processing,RoW America,3.2059765650615426
+mining,Canada,processing,RoW Africa,0.3094485971779537
+mining,Canada,processing,RoW Middle East,0.5893248221359471
+mining,Canada,processing,RoW Europe,11.25690001954739
+mining,China,processing,Australia,0.1474476892768786
+mining,China,processing,Belgium,0.10261734213862947
+mining,China,processing,Brazil,0.12490356242626703
+mining,China,processing,Bulgaria,0.0599787938806543
+mining,China,processing,Canada,0.11603527390776662
+mining,China,processing,China,257.0502227473605
+mining,China,processing,Germany,0.2957846113562164
+mining,China,processing,India,0.38930222701945866
+mining,China,processing,Indonesia,0.09152387511647014
+mining,China,processing,Japan,0.2772000623480825
+mining,China,processing,Mexico,0.1470055782064621
+mining,China,processing,Netherlands,0.042718368917219106
+mining,China,processing,Poland,0.06586272179578448
+mining,China,processing,South Korea,1.0292831677935599
+mining,China,processing,Russia,0.04724422065716324
+mining,China,processing,Spain,0.07419365586134459
+mining,China,processing,USA,0.6694253713552105
+mining,China,processing,RoW Asia Pacific,2.2676554713006714
+mining,China,processing,RoW America,1.4771388664987655
+mining,China,processing,RoW Africa,0.1951191454051285
+mining,China,processing,RoW Middle East,0.5667569739604328
+mining,China,processing,RoW Europe,0.7997808544026372
+mining,Germany,processing,Australia,0.003953972958326181
+mining,Germany,processing,Belgium,0.04123049718854803
+mining,Germany,processing,Brazil,0.0071954393488791145
+mining,Germany,processing,Bulgaria,0.011486842579345291
+mining,Germany,processing,Canada,0.006509659438669089
+mining,Germany,processing,China,0.21933567149366254
+mining,Germany,processing,Germany,0.9256939196557185
+mining,Germany,processing,India,0.012035578096378665
+mining,Germany,processing,Indonesia,0.0014291947081591164
+mining,Germany,processing,Japan,0.009996320710291001
+mining,Germany,processing,Mexico,0.008171636112211687
+mining,Germany,processing,Netherlands,0.0515694383213679
+mining,Germany,processing,Poland,0.08712875987845334
+mining,Germany,processing,South Korea,0.015794508404555083
+mining,Germany,processing,Russia,0.003564997086370276
+mining,Germany,processing,Spain,0.0458923560286787
+mining,Germany,processing,USA,0.04595384942441584
+mining,Germany,processing,RoW Asia Pacific,0.029362574342944113
+mining,Germany,processing,RoW America,0.05687548703906874
+mining,Germany,processing,RoW Africa,0.023142180884346424
+mining,Germany,processing,RoW Middle East,0.10809038485759198
+mining,Germany,processing,RoW Europe,0.5062460213032615
+mining,India,processing,Australia,0.02757719513241462
+mining,India,processing,Belgium,0.05691443286153427
+mining,India,processing,Brazil,0.03224638421416992
+mining,India,processing,Bulgaria,0.040209042118750635
+mining,India,processing,Canada,0.040993635210358786
+mining,India,processing,China,9.689303569880492
+mining,India,processing,Germany,0.15053937760017977
+mining,India,processing,India,80.0340674168929
+mining,India,processing,Indonesia,0.015331531032024108
+mining,India,processing,Japan,0.4657976705481428
+mining,India,processing,Mexico,0.3457608602830443
+mining,India,processing,Netherlands,0.02019246036034092
+mining,India,processing,Poland,0.03181518638175615
+mining,India,processing,South Korea,0.2177594390685674
+mining,India,processing,Russia,0.00878036306018606
+mining,India,processing,Spain,0.0342878275889182
+mining,India,processing,USA,0.19645003968896144
+mining,India,processing,RoW Asia Pacific,1.1778413740255955
+mining,India,processing,RoW America,0.17995865035527986
+mining,India,processing,RoW Africa,0.17001378791427296
+mining,India,processing,RoW Middle East,1.993975627501627
+mining,India,processing,RoW Europe,0.34486536356342795
+mining,Indonesia,processing,Australia,0.8371703842504191
+mining,Indonesia,processing,Belgium,0.15273292539501704
+mining,Indonesia,processing,Brazil,0.05403854372602141
+mining,Indonesia,processing,Bulgaria,0.4103437637219724
+mining,Indonesia,processing,Canada,0.12873608490887056
+mining,Indonesia,processing,China,32.65117601301629
+mining,Indonesia,processing,Germany,0.7290153689868908
+mining,Indonesia,processing,India,44.31676593226871
+mining,Indonesia,processing,Indonesia,165.49621806311308
+mining,Indonesia,processing,Japan,9.492278573067683
+mining,Indonesia,processing,Mexico,0.3506981918405698
+mining,Indonesia,processing,Netherlands,0.04553737427444277
+mining,Indonesia,processing,Poland,0.05796853330160108
+mining,Indonesia,processing,South Korea,6.103927825009851
+mining,Indonesia,processing,Russia,0.0711527017665186
+mining,Indonesia,processing,Spain,2.5241954196199634
+mining,Indonesia,processing,USA,0.5633713889317385
+mining,Indonesia,processing,RoW Asia Pacific,11.810365210474208
+mining,Indonesia,processing,RoW America,0.259509321255434
+mining,Indonesia,processing,RoW Africa,0.35790929676011907
+mining,Indonesia,processing,RoW Middle East,2.3240848902098445
+mining,Indonesia,processing,RoW Europe,1.897134475647034
+mining,Japan,processing,Australia,0.00015673882417560788
+mining,Japan,processing,Belgium,0.000123689959889701
+mining,Japan,processing,Brazil,5.454755682029432e-05
+mining,Japan,processing,Bulgaria,0.00037031841763921793
+mining,Japan,processing,Canada,0.0001437126908967478
+mining,Japan,processing,China,0.019380286641359587
+mining,Japan,processing,Germany,0.00043815436341726276
+mining,Japan,processing,India,0.0009625389379430546
+mining,Japan,processing,Indonesia,0.00010597216714750158
+mining,Japan,processing,Japan,0.0016752232851994693
+mining,Japan,processing,Mexico,0.0002222794729857088
+mining,Japan,processing,Netherlands,4.925906974863888e-05
+mining,Japan,processing,Poland,6.685392684965969e-05
+mining,Japan,processing,South Korea,0.001144230601712682
+mining,Japan,processing,Russia,0.00022074664997209933
+mining,Japan,processing,Spain,0.00014671419416922754
+mining,Japan,processing,USA,0.0020574577723783466
+mining,Japan,processing,RoW Asia Pacific,0.019278204894792095
+mining,Japan,processing,RoW America,0.00029260937310680385
+mining,Japan,processing,RoW Africa,0.00010234923460416741
+mining,Japan,processing,RoW Middle East,0.0013208820742632477
+mining,Japan,processing,RoW Europe,0.0009180897632909716
+mining,Mexico,processing,Australia,0.06005506151521908
+mining,Mexico,processing,Belgium,0.14221169145185408
+mining,Mexico,processing,Brazil,0.033866143281283
+mining,Mexico,processing,Bulgaria,0.00906675720749791
+mining,Mexico,processing,Canada,0.19077434931185644
+mining,Mexico,processing,China,15.481051859988108
+mining,Mexico,processing,Germany,0.17455962903703803
+mining,Mexico,processing,India,0.05273206460858342
+mining,Mexico,processing,Indonesia,0.008838181670128202
+mining,Mexico,processing,Japan,0.5128913216906947
+mining,Mexico,processing,Mexico,116.85596270286717
+mining,Mexico,processing,Netherlands,0.015603830566769622
+mining,Mexico,processing,Poland,0.1912316987861404
+mining,Mexico,processing,South Korea,0.4623740797415364
+mining,Mexico,processing,Russia,0.0037916136617600227
+mining,Mexico,processing,Spain,0.029862598460485855
+mining,Mexico,processing,USA,2.8428700587113425
+mining,Mexico,processing,RoW Asia Pacific,0.35833349424512284
+mining,Mexico,processing,RoW America,0.44216429008103875
+mining,Mexico,processing,RoW Africa,0.02136751654347095
+mining,Mexico,processing,RoW Middle East,0.11173685121994509
+mining,Mexico,processing,RoW Europe,0.38205651084434206
+mining,Netherlands,processing,Australia,0.0
+mining,Netherlands,processing,Belgium,0.0
+mining,Netherlands,processing,Brazil,0.0
+mining,Netherlands,processing,Bulgaria,0.0
+mining,Netherlands,processing,Canada,0.0
+mining,Netherlands,processing,China,0.0
+mining,Netherlands,processing,Germany,0.0
+mining,Netherlands,processing,India,0.0
+mining,Netherlands,processing,Indonesia,0.0
+mining,Netherlands,processing,Japan,0.0
+mining,Netherlands,processing,Mexico,0.0
+mining,Netherlands,processing,Netherlands,0.0
+mining,Netherlands,processing,Poland,0.0
+mining,Netherlands,processing,South Korea,0.0
+mining,Netherlands,processing,Russia,0.0
+mining,Netherlands,processing,Spain,0.0
+mining,Netherlands,processing,USA,0.0
+mining,Netherlands,processing,RoW Asia Pacific,0.0
+mining,Netherlands,processing,RoW America,0.0
+mining,Netherlands,processing,RoW Africa,0.0
+mining,Netherlands,processing,RoW Middle East,0.0
+mining,Netherlands,processing,RoW Europe,0.0
+mining,Poland,processing,Australia,0.023910512177700023
+mining,Poland,processing,Belgium,0.058881961178282274
+mining,Poland,processing,Brazil,0.004302285226236097
+mining,Poland,processing,Bulgaria,0.08621602063266531
+mining,Poland,processing,Canada,0.012937108201129685
+mining,Poland,processing,China,3.2717577702637577
+mining,Poland,processing,Germany,1.3085108033721418
+mining,Poland,processing,India,0.03682771987335307
+mining,Poland,processing,Indonesia,0.0020662441161237452
+mining,Poland,processing,Japan,0.011624312851100905
+mining,Poland,processing,Mexico,0.008719500473341624
+mining,Poland,processing,Netherlands,0.027130473465753865
+mining,Poland,processing,Poland,119.67894603079368
+mining,Poland,processing,South Korea,0.033724325123236226
+mining,Poland,processing,Russia,0.01419166837225235
+mining,Poland,processing,Spain,0.032797042157030186
+mining,Poland,processing,USA,0.10266770746663395
+mining,Poland,processing,RoW Asia Pacific,0.19585807112857256
+mining,Poland,processing,RoW America,0.015468791088991646
+mining,Poland,processing,RoW Africa,0.03156723336858832
+mining,Poland,processing,RoW Middle East,0.06722910379351205
+mining,Poland,processing,RoW Europe,1.4691083295461318
+mining,South Korea,processing,Australia,0.0004173771107152226
+mining,South Korea,processing,Belgium,0.0004060500328348499
+mining,South Korea,processing,Brazil,0.00047619519349757035
+mining,South Korea,processing,Bulgaria,0.0003076001499116398
+mining,South Korea,processing,Canada,0.0004267266659687188
+mining,South Korea,processing,China,0.06558247899786135
+mining,South Korea,processing,Germany,0.0007536123014144152
+mining,South Korea,processing,India,0.002814874592146592
+mining,South Korea,processing,Indonesia,0.00027216773319437384
+mining,South Korea,processing,Japan,0.0011831204222101325
+mining,South Korea,processing,Mexico,0.0010398012376706639
+mining,South Korea,processing,Netherlands,0.00013069223857500677
+mining,South Korea,processing,Poland,0.0004305475225254638
+mining,South Korea,processing,South Korea,0.0055580731645917475
+mining,South Korea,processing,Russia,0.00022421673838643518
+mining,South Korea,processing,Spain,0.0002545736856580228
+mining,South Korea,processing,USA,0.0017046963166160657
+mining,South Korea,processing,RoW Asia Pacific,0.01062226048895875
+mining,South Korea,processing,RoW America,0.002462092908529414
+mining,South Korea,processing,RoW Africa,0.0005982282989038782
+mining,South Korea,processing,RoW Middle East,0.004118816289022191
+mining,South Korea,processing,RoW Europe,0.0021965359118697038
+mining,Russia,processing,Australia,0.086878256761838
+mining,Russia,processing,Belgium,3.1664032248447094
+mining,Russia,processing,Brazil,0.14538396733763326
+mining,Russia,processing,Bulgaria,0.5981980973463604
+mining,Russia,processing,Canada,0.24526460468917521
+mining,Russia,processing,China,14.245751991995572
+mining,Russia,processing,Germany,8.63986140669735
+mining,Russia,processing,India,2.32655682193765
+mining,Russia,processing,Indonesia,0.10475222917674942
+mining,Russia,processing,Japan,0.5172241401680915
+mining,Russia,processing,Mexico,0.1934612593818109
+mining,Russia,processing,Netherlands,6.126280113680922
+mining,Russia,processing,Poland,2.409578555712884
+mining,Russia,processing,South Korea,1.3145542013165303
+mining,Russia,processing,Russia,468.08116623432477
+mining,Russia,processing,Spain,0.29357384237254625
+mining,Russia,processing,USA,0.9674829659505206
+mining,Russia,processing,RoW Asia Pacific,3.57463132987128
+mining,Russia,processing,RoW America,0.5741596399034173
+mining,Russia,processing,RoW Africa,0.6065727628823426
+mining,Russia,processing,RoW Middle East,8.404588216147252
+mining,Russia,processing,RoW Europe,11.60340294847212
+mining,Spain,processing,Australia,0.012156534543420363
+mining,Spain,processing,Belgium,1.0036224368798892
+mining,Spain,processing,Brazil,0.005305443266782509
+mining,Spain,processing,Bulgaria,14.095733313409475
+mining,Spain,processing,Canada,0.02498466183075674
+mining,Spain,processing,China,16.545651466311483
+mining,Spain,processing,Germany,0.9322725537943111
+mining,Spain,processing,India,0.02257104645942611
+mining,Spain,processing,Indonesia,0.006095697806455143
+mining,Spain,processing,Japan,0.013931329265028833
+mining,Spain,processing,Mexico,0.010847550275702948
+mining,Spain,processing,Netherlands,0.03812705709390419
+mining,Spain,processing,Poland,0.056751662139779814
+mining,Spain,processing,South Korea,0.2754700146800364
+mining,Spain,processing,Russia,0.008205737179426334
+mining,Spain,processing,Spain,15.244978627636755
+mining,Spain,processing,USA,0.15509787987070142
+mining,Spain,processing,RoW Asia Pacific,0.22695076654000718
+mining,Spain,processing,RoW America,0.010123506213084827
+mining,Spain,processing,RoW Africa,0.10112872921162407
+mining,Spain,processing,RoW Middle East,0.20326242733464053
+mining,Spain,processing,RoW Europe,3.1938896925144205
+mining,USA,processing,Australia,0.25035707039040467
+mining,USA,processing,Belgium,0.9276607829060837
+mining,USA,processing,Brazil,0.5413209847578837
+mining,USA,processing,Bulgaria,0.28548127589833194
+mining,USA,processing,Canada,15.495553066016319
+mining,USA,processing,China,122.16844948755188
+mining,USA,processing,Germany,4.486622824688063
+mining,USA,processing,India,3.502353745639691
+mining,USA,processing,Indonesia,0.12245926657689869
+mining,USA,processing,Japan,13.97047511696383
+mining,USA,processing,Mexico,2.4122461143564458
+mining,USA,processing,Netherlands,0.26381202020690414
+mining,USA,processing,Poland,0.2512509452367293
+mining,USA,processing,South Korea,3.441297370927815
+mining,USA,processing,Russia,0.05719620484164678
+mining,USA,processing,Spain,25.838037367594374
+mining,USA,processing,USA,818.527231880804
+mining,USA,processing,RoW Asia Pacific,4.697649250377935
+mining,USA,processing,RoW America,1.6966742390417004
+mining,USA,processing,RoW Africa,2.339184305974189
+mining,USA,processing,RoW Middle East,2.2463819478968188
+mining,USA,processing,RoW Europe,11.919435820111193
+mining,RoW Asia Pacific,processing,Australia,0.5123143006483193
+mining,RoW Asia Pacific,processing,Belgium,0.7409036463006311
+mining,RoW Asia Pacific,processing,Brazil,0.14516651495805383
+mining,RoW Asia Pacific,processing,Bulgaria,5.307871027367545
+mining,RoW Asia Pacific,processing,Canada,0.23670415186072383
+mining,RoW Asia Pacific,processing,China,235.6230366203378
+mining,RoW Asia Pacific,processing,Germany,3.5980969620055148
+mining,RoW Asia Pacific,processing,India,7.692565431648908
+mining,RoW Asia Pacific,processing,Indonesia,0.36086304861559754
+mining,RoW Asia Pacific,processing,Japan,26.16322854702939
+mining,RoW Asia Pacific,processing,Mexico,0.23097634139144427
+mining,RoW Asia Pacific,processing,Netherlands,0.2573128046422727
+mining,RoW Asia Pacific,processing,Poland,0.1811463060944999
+mining,RoW Asia Pacific,processing,South Korea,9.648661564220612
+mining,RoW Asia Pacific,processing,Russia,3.5181235089791176
+mining,RoW Asia Pacific,processing,Spain,1.7948605926853363
+mining,RoW Asia Pacific,processing,USA,1.5254096251080873
+mining,RoW Asia Pacific,processing,RoW Asia Pacific,292.8389608751007
+mining,RoW Asia Pacific,processing,RoW America,0.483195952855394
+mining,RoW Asia Pacific,processing,RoW Africa,0.4605439609251019
+mining,RoW Asia Pacific,processing,RoW Middle East,1.3267826130802627
+mining,RoW Asia Pacific,processing,RoW Europe,6.982000446243549
+mining,RoW America,processing,Australia,6.200252498340997
+mining,RoW America,processing,Belgium,10.051643998634468
+mining,RoW America,processing,Brazil,100.79120555560684
+mining,RoW America,processing,Bulgaria,45.57941923551807
+mining,RoW America,processing,Canada,7.71007968044248
+mining,RoW America,processing,China,1291.3083288006726
+mining,RoW America,processing,Germany,97.15833123004222
+mining,RoW America,processing,India,246.89734771068464
+mining,RoW America,processing,Indonesia,2.5335033576843973
+mining,RoW America,processing,Japan,392.0790486255207
+mining,RoW America,processing,Mexico,3.6424233586026205
+mining,RoW America,processing,Netherlands,4.280171293018907
+mining,RoW America,processing,Poland,1.7062721811224901
+mining,RoW America,processing,South Korea,184.2066202273839
+mining,RoW America,processing,Russia,0.480086131336201
+mining,RoW America,processing,Spain,67.45992575067162
+mining,RoW America,processing,USA,71.57228956788896
+mining,RoW America,processing,RoW Asia Pacific,51.211034616351995
+mining,RoW America,processing,RoW America,1314.2236410682158
+mining,RoW America,processing,RoW Africa,7.380791022991703
+mining,RoW America,processing,RoW Middle East,9.088796701193434
+mining,RoW America,processing,RoW Europe,100.06960492248336
+mining,RoW Africa,processing,Australia,0.24308413955838573
+mining,RoW Africa,processing,Belgium,1.4679821898516223
+mining,RoW Africa,processing,Brazil,0.19882442174201304
+mining,RoW Africa,processing,Bulgaria,9.644589790060476
+mining,RoW Africa,processing,Canada,1.9735883891215908
+mining,RoW Africa,processing,China,148.69916352027144
+mining,RoW Africa,processing,Germany,8.389246809817335
+mining,RoW Africa,processing,India,50.341225846499
+mining,RoW Africa,processing,Indonesia,0.14683135929367014
+mining,RoW Africa,processing,Japan,11.311872545757058
+mining,RoW Africa,processing,Mexico,0.406678552424055
+mining,RoW Africa,processing,Netherlands,0.3142902572506464
+mining,RoW Africa,processing,Poland,0.5607200911990382
+mining,RoW Africa,processing,South Korea,7.649362333011291
+mining,RoW Africa,processing,Russia,0.11705108834509498
+mining,RoW Africa,processing,Spain,1.5682765389483089
+mining,RoW Africa,processing,USA,3.370633383490365
+mining,RoW Africa,processing,RoW Asia Pacific,4.994288824351975
+mining,RoW Africa,processing,RoW America,0.720050521846656
+mining,RoW Africa,processing,RoW Africa,591.3810304251491
+mining,RoW Africa,processing,RoW Middle East,6.645993879640433
+mining,RoW Africa,processing,RoW Europe,9.828755934246452
+mining,RoW Middle East,processing,Australia,0.01828551095118801
+mining,RoW Middle East,processing,Belgium,0.11704251566702023
+mining,RoW Middle East,processing,Brazil,0.017595737369560494
+mining,RoW Middle East,processing,Bulgaria,0.3810326162779158
+mining,RoW Middle East,processing,Canada,0.04393515264223643
+mining,RoW Middle East,processing,China,3.1720273796124405
+mining,RoW Middle East,processing,Germany,0.1991631024124977
+mining,RoW Middle East,processing,India,0.9117625215823776
+mining,RoW Middle East,processing,Indonesia,0.019200592143573433
+mining,RoW Middle East,processing,Japan,0.07044846759033421
+mining,RoW Middle East,processing,Mexico,0.02873888272621918
+mining,RoW Middle East,processing,Netherlands,0.02649302084708544
+mining,RoW Middle East,processing,Poland,0.021374205445374723
+mining,RoW Middle East,processing,South Korea,0.5199422087299026
+mining,RoW Middle East,processing,Russia,0.0058353382900066895
+mining,RoW Middle East,processing,Spain,0.04248526392580812
+mining,RoW Middle East,processing,USA,0.09645878240247396
+mining,RoW Middle East,processing,RoW Asia Pacific,0.3087679331349221
+mining,RoW Middle East,processing,RoW America,0.06672736775890163
+mining,RoW Middle East,processing,RoW Africa,0.2790355156812516
+mining,RoW Middle East,processing,RoW Middle East,74.3923339351014
+mining,RoW Middle East,processing,RoW Europe,0.8078025025335139
+mining,RoW Europe,processing,Australia,0.049491822397591534
+mining,RoW Europe,processing,Belgium,0.9323654075486801
+mining,RoW Europe,processing,Brazil,0.06891325141134357
+mining,RoW Europe,processing,Bulgaria,8.851023206770352
+mining,RoW Europe,processing,Canada,0.15403338975149167
+mining,RoW Europe,processing,China,39.60278371391381
+mining,RoW Europe,processing,Germany,4.33444831005669
+mining,RoW Europe,processing,India,1.3073226886356093
+mining,RoW Europe,processing,Indonesia,0.023970208415894128
+mining,RoW Europe,processing,Japan,0.15596782853560304
+mining,RoW Europe,processing,Mexico,0.09630054058833816
+mining,RoW Europe,processing,Netherlands,0.26005028479674036
+mining,RoW Europe,processing,Poland,0.9720697927437415
+mining,RoW Europe,processing,South Korea,0.7394530762336183
+mining,RoW Europe,processing,Russia,0.1780959149957823
+mining,RoW Europe,processing,Spain,0.8148635496012356
+mining,RoW Europe,processing,USA,0.9248737286688711
+mining,RoW Europe,processing,RoW Asia Pacific,0.9164637744774
+mining,RoW Europe,processing,RoW America,0.31977625874182425
+mining,RoW Europe,processing,RoW Africa,0.3430519774010089
+mining,RoW Europe,processing,RoW Middle East,1.3111788972953502
+mining,RoW Europe,processing,RoW Europe,214.26283739390416
+processing,Australia,consumption,Australia,54.14578770055638
+processing,Australia,consumption,Belgium,0.46993128572078346
+processing,Australia,consumption,Brazil,0.682205567607868
+processing,Australia,consumption,Bulgaria,0.026285205886092636
+processing,Australia,consumption,Canada,1.0383113380433835
+processing,Australia,consumption,China,31.87134227343805
+processing,Australia,consumption,Germany,1.814311970419227
+processing,Australia,consumption,India,2.5714255548849483
+processing,Australia,consumption,Indonesia,1.9458733458914272
+processing,Australia,consumption,Japan,5.0966195334382345
+processing,Australia,consumption,Mexico,0.49065544878041645
+processing,Australia,consumption,Netherlands,0.444814748396931
+processing,Australia,consumption,Poland,0.4652000080236758
+processing,Australia,consumption,South Korea,1.7128736427551716
+processing,Australia,consumption,Russia,0.7837871344841318
+processing,Australia,consumption,Spain,0.4062876852125794
+processing,Australia,consumption,USA,7.188668108160608
+processing,Australia,consumption,RoW Asia Pacific,22.50909619944074
+processing,Australia,consumption,RoW America,1.6661084780091682
+processing,Australia,consumption,RoW Africa,1.4487507058910323
+processing,Australia,consumption,RoW Middle East,3.369000952452278
+processing,Australia,consumption,RoW Europe,5.100232719572839
+processing,Belgium,consumption,Australia,0.1160794412789984
+processing,Belgium,consumption,Belgium,5.887730840345547
+processing,Belgium,consumption,Brazil,0.181674414242081
+processing,Belgium,consumption,Bulgaria,0.022315982189272197
+processing,Belgium,consumption,Canada,0.11641125475859135
+processing,Belgium,consumption,China,3.697801403877213
+processing,Belgium,consumption,Germany,1.8902786494039012
+processing,Belgium,consumption,India,0.22951110298154453
+processing,Belgium,consumption,Indonesia,0.07268483942147334
+processing,Belgium,consumption,Japan,0.2415566222800045
+processing,Belgium,consumption,Mexico,0.10923363657258138
+processing,Belgium,consumption,Netherlands,0.4732283516701691
+processing,Belgium,consumption,Poland,0.30803036045029336
+processing,Belgium,consumption,South Korea,0.1491018667614828
+processing,Belgium,consumption,Russia,0.28783189061840664
+processing,Belgium,consumption,Spain,0.3704088082313128
+processing,Belgium,consumption,USA,1.1904202717739247
+processing,Belgium,consumption,RoW Asia Pacific,1.0504176882935459
+processing,Belgium,consumption,RoW America,0.47950298480427217
+processing,Belgium,consumption,RoW Africa,0.7679320016297598
+processing,Belgium,consumption,RoW Middle East,0.8081040533242289
+processing,Belgium,consumption,RoW Europe,4.877152370026782
+processing,Brazil,consumption,Australia,0.3109681939350229
+processing,Brazil,consumption,Belgium,0.18772310986843033
+processing,Brazil,consumption,Brazil,91.45345728074184
+processing,Brazil,consumption,Bulgaria,0.018237432034440944
+processing,Brazil,consumption,Canada,0.5101894174420113
+processing,Brazil,consumption,China,9.189439363261624
+processing,Brazil,consumption,Germany,1.4770166219449454
+processing,Brazil,consumption,India,0.6564893912346854
+processing,Brazil,consumption,Indonesia,0.33742482079379077
+processing,Brazil,consumption,Japan,1.1240461473341679
+processing,Brazil,consumption,Mexico,0.5870498753489195
+processing,Brazil,consumption,Netherlands,0.21175866298723586
+processing,Brazil,consumption,Poland,1.225416373261371
+processing,Brazil,consumption,South Korea,0.7453076875219943
+processing,Brazil,consumption,Russia,0.4799515844504129
+processing,Brazil,consumption,Spain,0.24406336196639972
+processing,Brazil,consumption,USA,6.110757694508372
+processing,Brazil,consumption,RoW Asia Pacific,4.069074910115653
+processing,Brazil,consumption,RoW America,15.8758671198473
+processing,Brazil,consumption,RoW Africa,0.9772984221574175
+processing,Brazil,consumption,RoW Middle East,1.9444178066393405
+processing,Brazil,consumption,RoW Europe,3.687663137173086
+processing,Bulgaria,consumption,Australia,0.7368003223837787
+processing,Bulgaria,consumption,Belgium,4.135930733356824
+processing,Bulgaria,consumption,Brazil,0.8893918317918659
+processing,Bulgaria,consumption,Bulgaria,18.93704031460684
+processing,Bulgaria,consumption,Canada,0.7530351948554584
+processing,Bulgaria,consumption,China,25.260698096985763
+processing,Bulgaria,consumption,Germany,7.177821225549232
+processing,Bulgaria,consumption,India,1.3182107252932718
+processing,Bulgaria,consumption,Indonesia,0.5116348777196185
+processing,Bulgaria,consumption,Japan,1.5344822587362517
+processing,Bulgaria,consumption,Mexico,0.5080770797524117
+processing,Bulgaria,consumption,Netherlands,0.7638804334415668
+processing,Bulgaria,consumption,Poland,1.5708890304276815
+processing,Bulgaria,consumption,South Korea,1.2790068416149203
+processing,Bulgaria,consumption,Russia,2.1067532163880687
+processing,Bulgaria,consumption,Spain,1.1958573730997104
+processing,Bulgaria,consumption,USA,6.546986484740984
+processing,Bulgaria,consumption,RoW Asia Pacific,14.455800573341719
+processing,Bulgaria,consumption,RoW America,1.8543749688572766
+processing,Bulgaria,consumption,RoW Africa,11.266596761618073
+processing,Bulgaria,consumption,RoW Middle East,13.196630569659348
+processing,Bulgaria,consumption,RoW Europe,38.78731033908482
+processing,Canada,consumption,Australia,1.0273919572730876
+processing,Canada,consumption,Belgium,0.4992555156165435
+processing,Canada,consumption,Brazil,1.0305838311873912
+processing,Canada,consumption,Bulgaria,0.028888497179304064
+processing,Canada,consumption,Canada,115.14065130045802
+processing,Canada,consumption,China,14.816660661389559
+processing,Canada,consumption,Germany,2.0343309664753253
+processing,Canada,consumption,India,1.1047438057142362
+processing,Canada,consumption,Indonesia,0.48734242379590037
+processing,Canada,consumption,Japan,2.208873484483443
+processing,Canada,consumption,Mexico,2.33869440154075
+processing,Canada,consumption,Netherlands,0.7140548492864831
+processing,Canada,consumption,Poland,0.25433062398255657
+processing,Canada,consumption,South Korea,1.3649632466485397
+processing,Canada,consumption,Russia,0.8901785634997299
+processing,Canada,consumption,Spain,0.44902749344667264
+processing,Canada,consumption,USA,65.72950051394267
+processing,Canada,consumption,RoW Asia Pacific,10.652798801788546
+processing,Canada,consumption,RoW America,3.840647673249751
+processing,Canada,consumption,RoW Africa,1.4301527695919316
+processing,Canada,consumption,RoW Middle East,3.441049381165315
+processing,Canada,consumption,RoW Europe,8.89831678303009
+processing,China,consumption,Australia,9.744746669891708
+processing,China,consumption,Belgium,2.183901572402927
+processing,China,consumption,Brazil,10.2426177514539
+processing,China,consumption,Bulgaria,0.28942860927041514
+processing,China,consumption,Canada,7.844884707998119
+processing,China,consumption,China,1866.1684784148074
+processing,China,consumption,Germany,15.32704176391268
+processing,China,consumption,India,14.445426477089528
+processing,China,consumption,Indonesia,8.707284945794752
+processing,China,consumption,Japan,29.579364231993043
+processing,China,consumption,Mexico,6.413011177397851
+processing,China,consumption,Netherlands,2.6482024292577226
+processing,China,consumption,Poland,2.7732276103682727
+processing,China,consumption,South Korea,13.983286222605791
+processing,China,consumption,Russia,12.127907674215992
+processing,China,consumption,Spain,3.860384673982474
+processing,China,consumption,USA,85.2672975472498
+processing,China,consumption,RoW Asia Pacific,135.28706794483216
+processing,China,consumption,RoW America,24.43985270284061
+processing,China,consumption,RoW Africa,18.80098053974369
+processing,China,consumption,RoW Middle East,36.97562412093532
+processing,China,consumption,RoW Europe,47.420015478124554
+processing,Germany,consumption,Australia,1.0257478314988722
+processing,Germany,consumption,Belgium,1.983235895342958
+processing,Germany,consumption,Brazil,1.3624301518240323
+processing,Germany,consumption,Bulgaria,0.1876621952930553
+processing,Germany,consumption,Canada,1.050172391075258
+processing,Germany,consumption,China,14.637611760195595
+processing,Germany,consumption,Germany,30.76026982510576
+processing,Germany,consumption,India,2.6651263985616778
+processing,Germany,consumption,Indonesia,0.5237576470322762
+processing,Germany,consumption,Japan,1.8072355891522094
+processing,Germany,consumption,Mexico,0.7591404373144192
+processing,Germany,consumption,Netherlands,2.1072860759147236
+processing,Germany,consumption,Poland,4.425977135997676
+processing,Germany,consumption,South Korea,1.1051106630088658
+processing,Germany,consumption,Russia,3.187737430783977
+processing,Germany,consumption,Spain,2.542273155058977
+processing,Germany,consumption,USA,10.831975634175329
+processing,Germany,consumption,RoW Asia Pacific,8.275364849829142
+processing,Germany,consumption,RoW America,2.8808999899885253
+processing,Germany,consumption,RoW Africa,3.033239699423834
+processing,Germany,consumption,RoW Middle East,8.605031283503811
+processing,Germany,consumption,RoW Europe,42.46335932317973
+processing,India,consumption,Australia,2.0915110206046332
+processing,India,consumption,Belgium,0.7208560926858836
+processing,India,consumption,Brazil,2.2856531535907574
+processing,India,consumption,Bulgaria,0.07855828222862753
+processing,India,consumption,Canada,1.9233006469732727
+processing,India,consumption,China,60.258100042122436
+processing,India,consumption,Germany,4.353480838034204
+processing,India,consumption,India,267.41890012421953
+processing,India,consumption,Indonesia,1.7219391542619071
+processing,India,consumption,Japan,4.084368491090534
+processing,India,consumption,Mexico,4.548388157358576
+processing,India,consumption,Netherlands,0.8644096818704629
+processing,India,consumption,Poland,0.6141101215338974
+processing,India,consumption,South Korea,2.161165852608652
+processing,India,consumption,Russia,2.145786553086809
+processing,India,consumption,Spain,1.1200291044264623
+processing,India,consumption,USA,21.477506978517113
+processing,India,consumption,RoW Asia Pacific,29.696108967786135
+processing,India,consumption,RoW America,7.27268661540354
+processing,India,consumption,RoW Africa,9.63523533014123
+processing,India,consumption,RoW Middle East,36.41467494588519
+processing,India,consumption,RoW Europe,15.301639897738742
+processing,Indonesia,consumption,Australia,1.7441430347786495
+processing,Indonesia,consumption,Belgium,0.15757543771380306
+processing,Indonesia,consumption,Brazil,0.3581294973675273
+processing,Indonesia,consumption,Bulgaria,0.011990903665308899
+processing,Indonesia,consumption,Canada,0.3627905085880245
+processing,Indonesia,consumption,China,10.591251638463378
+processing,Indonesia,consumption,Germany,0.8321039421173736
+processing,Indonesia,consumption,India,1.1420226903788266
+processing,Indonesia,consumption,Indonesia,118.6744852699355
+processing,Indonesia,consumption,Japan,7.2935580979342625
+processing,Indonesia,consumption,Mexico,0.47979662023766684
+processing,Indonesia,consumption,Netherlands,0.24025724225491363
+processing,Indonesia,consumption,Poland,0.10808430163115088
+processing,Indonesia,consumption,South Korea,1.0227198302021476
+processing,Indonesia,consumption,Russia,0.42708841709354034
+processing,Indonesia,consumption,Spain,0.2056314971184374
+processing,Indonesia,consumption,USA,3.9561171435262104
+processing,Indonesia,consumption,RoW Asia Pacific,16.647823145493703
+processing,Indonesia,consumption,RoW America,0.8236909347247763
+processing,Indonesia,consumption,RoW Africa,0.6813910697977484
+processing,Indonesia,consumption,RoW Middle East,1.5380926789940508
+processing,Indonesia,consumption,RoW Europe,2.40463475520276
+processing,Japan,consumption,Australia,5.027578414281011
+processing,Japan,consumption,Belgium,1.0349303211983245
+processing,Japan,consumption,Brazil,3.477913664756264
+processing,Japan,consumption,Bulgaria,0.10253206906582592
+processing,Japan,consumption,Canada,3.556813994234751
+processing,Japan,consumption,China,138.56807210950137
+processing,Japan,consumption,Germany,6.657695544509868
+processing,Japan,consumption,India,8.928184100174041
+processing,Japan,consumption,Indonesia,14.06417153626663
+processing,Japan,consumption,Japan,112.743599313383
+processing,Japan,consumption,Mexico,2.9844763828065997
+processing,Japan,consumption,Netherlands,1.455526654591585
+processing,Japan,consumption,Poland,0.965828101316754
+processing,Japan,consumption,South Korea,8.894954772577178
+processing,Japan,consumption,Russia,4.356860723179864
+processing,Japan,consumption,Spain,1.450037465848586
+processing,Japan,consumption,USA,39.15744766845532
+processing,Japan,consumption,RoW Asia Pacific,90.17627767517894
+processing,Japan,consumption,RoW America,8.053148851403439
+processing,Japan,consumption,RoW Africa,6.245969296870877
+processing,Japan,consumption,RoW Middle East,15.490356566518527
+processing,Japan,consumption,RoW Europe,19.15406757575892
+processing,Mexico,consumption,Australia,0.19726541101254105
+processing,Mexico,consumption,Belgium,0.12709137567308093
+processing,Mexico,consumption,Brazil,0.5346168111023261
+processing,Mexico,consumption,Bulgaria,0.004965183759027424
+processing,Mexico,consumption,Canada,0.7264227596139062
+processing,Mexico,consumption,China,5.597648070493198
+processing,Mexico,consumption,Germany,0.355250929594176
+processing,Mexico,consumption,India,0.21646173908975425
+processing,Mexico,consumption,Indonesia,0.0898867004088491
+processing,Mexico,consumption,Japan,0.34938873487680167
+processing,Mexico,consumption,Mexico,96.3963044225112
+processing,Mexico,consumption,Netherlands,0.06258045924319741
+processing,Mexico,consumption,Poland,0.042867709748204655
+processing,Mexico,consumption,South Korea,0.21182333806810022
+processing,Mexico,consumption,Russia,0.1398651980015347
+processing,Mexico,consumption,Spain,0.10591043049413874
+processing,Mexico,consumption,USA,11.798921513091246
+processing,Mexico,consumption,RoW Asia Pacific,4.057868634999558
+processing,Mexico,consumption,RoW America,3.1138479657014533
+processing,Mexico,consumption,RoW Africa,0.2511691465643733
+processing,Mexico,consumption,RoW Middle East,0.5576201601047923
+processing,Mexico,consumption,RoW Europe,1.2862786615289876
+processing,Netherlands,consumption,Australia,0.08148182506836783
+processing,Netherlands,consumption,Belgium,0.24719380428526477
+processing,Netherlands,consumption,Brazil,0.1643000250593398
+processing,Netherlands,consumption,Bulgaria,0.010356945457106246
+processing,Netherlands,consumption,Canada,0.08017493692475809
+processing,Netherlands,consumption,China,1.3914180150181354
+processing,Netherlands,consumption,Germany,1.0242102287893489
+processing,Netherlands,consumption,India,0.13307713650103728
+processing,Netherlands,consumption,Indonesia,0.054258423413007364
+processing,Netherlands,consumption,Japan,0.20850113216709787
+processing,Netherlands,consumption,Mexico,0.06557824964877926
+processing,Netherlands,consumption,Netherlands,4.332989334691588
+processing,Netherlands,consumption,Poland,0.11987827340014429
+processing,Netherlands,consumption,South Korea,0.1072170361890138
+processing,Netherlands,consumption,Russia,0.17775896063429317
+processing,Netherlands,consumption,Spain,0.12354203774910318
+processing,Netherlands,consumption,USA,0.7443027565917684
+processing,Netherlands,consumption,RoW Asia Pacific,0.6399738739772834
+processing,Netherlands,consumption,RoW America,0.25086380703200667
+processing,Netherlands,consumption,RoW Africa,0.22331972058273256
+processing,Netherlands,consumption,RoW Middle East,0.44456284332046414
+processing,Netherlands,consumption,RoW Europe,1.9847635559623291
+processing,Poland,consumption,Australia,1.405900355742204
+processing,Poland,consumption,Belgium,1.1235164931801276
+processing,Poland,consumption,Brazil,0.7319212552644697
+processing,Poland,consumption,Bulgaria,0.26612129234863785
+processing,Poland,consumption,Canada,0.6665446304054117
+processing,Poland,consumption,China,7.651102532160726
+processing,Poland,consumption,Germany,13.672930007944657
+processing,Poland,consumption,India,1.4169784355219945
+processing,Poland,consumption,Indonesia,0.27529703157207214
+processing,Poland,consumption,Japan,1.0652506663460537
+processing,Poland,consumption,Mexico,0.4279167373132656
+processing,Poland,consumption,Netherlands,0.9135579081585943
+processing,Poland,consumption,Poland,42.89112033919085
+processing,Poland,consumption,South Korea,0.7319649562971349
+processing,Poland,consumption,Russia,4.0156407503817615
+processing,Poland,consumption,Spain,1.4763995444585616
+processing,Poland,consumption,USA,5.922700150520103
+processing,Poland,consumption,RoW Asia Pacific,4.591171975491479
+processing,Poland,consumption,RoW America,1.4096967007811458
+processing,Poland,consumption,RoW Africa,1.7804930987221506
+processing,Poland,consumption,RoW Middle East,3.341790199494799
+processing,Poland,consumption,RoW Europe,31.32936877022326
+processing,South Korea,consumption,Australia,2.9682122425199213
+processing,South Korea,consumption,Belgium,0.5056408910805561
+processing,South Korea,consumption,Brazil,2.52695891971961
+processing,South Korea,consumption,Bulgaria,0.052839828913163585
+processing,South Korea,consumption,Canada,1.6702561665405646
+processing,South Korea,consumption,China,53.392252058229936
+processing,South Korea,consumption,Germany,3.2545240122879644
+processing,South Korea,consumption,India,3.6344648016447154
+processing,South Korea,consumption,Indonesia,2.852893198791378
+processing,South Korea,consumption,Japan,9.42117972650075
+processing,South Korea,consumption,Mexico,1.7893178302320898
+processing,South Korea,consumption,Netherlands,0.624106460656958
+processing,South Korea,consumption,Poland,0.6799798638277109
+processing,South Korea,consumption,South Korea,64.75155915223503
+processing,South Korea,consumption,Russia,2.5964156561616396
+processing,South Korea,consumption,Spain,0.770333452433041
+processing,South Korea,consumption,USA,20.543898718742334
+processing,South Korea,consumption,RoW Asia Pacific,41.84226450904222
+processing,South Korea,consumption,RoW America,4.902260054962016
+processing,South Korea,consumption,RoW Africa,3.7146542337304886
+processing,South Korea,consumption,RoW Middle East,11.6975132162112
+processing,South Korea,consumption,RoW Europe,10.697766952355655
+processing,Russia,consumption,Australia,0.9004436232852422
+processing,Russia,consumption,Belgium,2.2597390596144713
+processing,Russia,consumption,Brazil,1.0517551269074334
+processing,Russia,consumption,Bulgaria,0.37141103088521044
+processing,Russia,consumption,Canada,0.9000501571587907
+processing,Russia,consumption,China,9.625038581106377
+processing,Russia,consumption,Germany,7.323266739959152
+processing,Russia,consumption,India,5.703027302508188
+processing,Russia,consumption,Indonesia,1.1006127673633155
+processing,Russia,consumption,Japan,2.1295132683753133
+processing,Russia,consumption,Mexico,0.6526235103002742
+processing,Russia,consumption,Netherlands,5.122916736859253
+processing,Russia,consumption,Poland,1.36114755805032
+processing,Russia,consumption,South Korea,1.509799416568163
+processing,Russia,consumption,Russia,352.5292289320505
+processing,Russia,consumption,Spain,1.0826394813785705
+processing,Russia,consumption,USA,7.405840366326911
+processing,Russia,consumption,RoW Asia Pacific,15.600435671676028
+processing,Russia,consumption,RoW America,3.193329876741423
+processing,Russia,consumption,RoW Africa,3.6482892277003276
+processing,Russia,consumption,RoW Middle East,23.40235351570905
+processing,Russia,consumption,RoW Europe,25.910963626535903
+processing,Spain,consumption,Australia,0.6003395375217242
+processing,Spain,consumption,Belgium,1.1169693226427002
+processing,Spain,consumption,Brazil,1.2654766851286507
+processing,Spain,consumption,Bulgaria,0.11886381901690715
+processing,Spain,consumption,Canada,0.557947859410874
+processing,Spain,consumption,China,13.23242283591278
+processing,Spain,consumption,Germany,4.746522349744871
+processing,Spain,consumption,India,1.9482550784812473
+processing,Spain,consumption,Indonesia,0.34838347068464287
+processing,Spain,consumption,Japan,2.874098427779607
+processing,Spain,consumption,Mexico,0.9188813043004022
+processing,Spain,consumption,Netherlands,0.7700581265658707
+processing,Spain,consumption,Poland,1.000883308552833
+processing,Spain,consumption,South Korea,1.2837822928865674
+processing,Spain,consumption,Russia,1.08382305753573
+processing,Spain,consumption,Spain,21.158955312368068
+processing,Spain,consumption,USA,5.75768763609124
+processing,Spain,consumption,RoW Asia Pacific,8.623359529677167
+processing,Spain,consumption,RoW America,3.169546854405116
+processing,Spain,consumption,RoW Africa,7.673491142948115
+processing,Spain,consumption,RoW Middle East,13.974493383237386
+processing,Spain,consumption,RoW Europe,27.49166682248287
+processing,USA,consumption,Australia,2.374266778457541
+processing,USA,consumption,Belgium,1.2582858637656567
+processing,USA,consumption,Brazil,2.445141310898609
+processing,USA,consumption,Bulgaria,0.0702052181440238
+processing,USA,consumption,Canada,20.028912409350646
+processing,USA,consumption,China,61.559547959088945
+processing,USA,consumption,Germany,6.242314924059833
+processing,USA,consumption,India,4.967682669272357
+processing,USA,consumption,Indonesia,1.6631620724880924
+processing,USA,consumption,Japan,7.466934443406265
+processing,USA,consumption,Mexico,219.82961793994627
+processing,USA,consumption,Netherlands,1.0221518899187774
+processing,USA,consumption,Poland,0.6021284998041929
+processing,USA,consumption,South Korea,3.399693547064056
+processing,USA,consumption,Russia,2.0284959359180523
+processing,USA,consumption,Spain,1.4626635494620328
+processing,USA,consumption,USA,507.25632499014375
+processing,USA,consumption,RoW Asia Pacific,45.72454595985836
+processing,USA,consumption,RoW America,7.596247733483911
+processing,USA,consumption,RoW Africa,3.914834735141036
+processing,USA,consumption,RoW Middle East,9.660882005551173
+processing,USA,consumption,RoW Europe,18.3375208368673
+processing,RoW Asia Pacific,consumption,Australia,7.038694997876124
+processing,RoW Asia Pacific,consumption,Belgium,1.562074949829776
+processing,RoW Asia Pacific,consumption,Brazil,2.982459835006849
+processing,RoW Asia Pacific,consumption,Bulgaria,0.13800386917003998
+processing,RoW Asia Pacific,consumption,Canada,2.544024864442479
+processing,RoW Asia Pacific,consumption,China,103.83684082584477
+processing,RoW Asia Pacific,consumption,Germany,6.207275422944797
+processing,RoW Asia Pacific,consumption,India,10.540518247829093
+processing,RoW Asia Pacific,consumption,Indonesia,9.245752135821427
+processing,RoW Asia Pacific,consumption,Japan,14.294169432764665
+processing,RoW Asia Pacific,consumption,Mexico,1.8116351637311847
+processing,RoW Asia Pacific,consumption,Netherlands,1.9567187875897019
+processing,RoW Asia Pacific,consumption,Poland,0.9901409456973079
+processing,RoW Asia Pacific,consumption,South Korea,5.894199893966573
+processing,RoW Asia Pacific,consumption,Russia,9.826808253911565
+processing,RoW Asia Pacific,consumption,Spain,1.6112569318736996
+processing,RoW Asia Pacific,consumption,USA,24.36412694351106
+processing,RoW Asia Pacific,consumption,RoW Asia Pacific,132.60814544254268
+processing,RoW Asia Pacific,consumption,RoW America,6.621200409555019
+processing,RoW Asia Pacific,consumption,RoW Africa,6.638894088066829
+processing,RoW Asia Pacific,consumption,RoW Middle East,14.544794413186343
+processing,RoW Asia Pacific,consumption,RoW Europe,23.93075165398393
+processing,RoW America,consumption,Australia,13.108123398833122
+processing,RoW America,consumption,Belgium,4.494403550176726
+processing,RoW America,consumption,Brazil,42.90817036352174
+processing,RoW America,consumption,Bulgaria,0.2888813216458277
+processing,RoW America,consumption,Canada,17.262140135829227
+processing,RoW America,consumption,China,413.5063797159733
+processing,RoW America,consumption,Germany,20.809354593583688
+processing,RoW America,consumption,India,15.813561372491044
+processing,RoW America,consumption,Indonesia,9.525422066758308
+processing,RoW America,consumption,Japan,21.791569022072473
+processing,RoW America,consumption,Mexico,12.443726049188255
+processing,RoW America,consumption,Netherlands,5.238276991789375
+processing,RoW America,consumption,Poland,2.449307483901606
+processing,RoW America,consumption,South Korea,17.87381007522023
+processing,RoW America,consumption,Russia,7.638955614883733
+processing,RoW America,consumption,Spain,6.148135444767917
+processing,RoW America,consumption,USA,94.52523867159121
+processing,RoW America,consumption,RoW Asia Pacific,292.0689160919449
+processing,RoW America,consumption,RoW America,210.34718809108452
+processing,RoW America,consumption,RoW Africa,21.793165883216346
+processing,RoW America,consumption,RoW Middle East,33.78464116805463
+processing,RoW America,consumption,RoW Europe,72.86539578350775
+processing,RoW Africa,consumption,Australia,2.392477490167712
+processing,RoW Africa,consumption,Belgium,2.704592184997797
+processing,RoW Africa,consumption,Brazil,2.9400155724165353
+processing,RoW Africa,consumption,Bulgaria,0.22014559397156105
+processing,RoW Africa,consumption,Canada,3.541052806698776
+processing,RoW Africa,consumption,China,64.06243606114053
+processing,RoW Africa,consumption,Germany,9.620613485328294
+processing,RoW Africa,consumption,India,13.369205006771894
+processing,RoW Africa,consumption,Indonesia,1.9323097672667595
+processing,RoW Africa,consumption,Japan,5.792072092904199
+processing,RoW Africa,consumption,Mexico,1.4502408537701914
+processing,RoW Africa,consumption,Netherlands,3.7423635987753463
+processing,RoW Africa,consumption,Poland,4.351526821536626
+processing,RoW Africa,consumption,South Korea,3.458191486541817
+processing,RoW Africa,consumption,Russia,2.7115068784542804
+processing,RoW Africa,consumption,Spain,5.465371565675485
+processing,RoW Africa,consumption,USA,18.64441594309415
+processing,RoW Africa,consumption,RoW Asia Pacific,42.79672528212415
+processing,RoW Africa,consumption,RoW America,4.549934009385414
+processing,RoW Africa,consumption,RoW Africa,344.1181301346442
+processing,RoW Africa,consumption,RoW Middle East,18.685195890632162
+processing,RoW Africa,consumption,RoW Europe,48.302171221345574
+processing,RoW Middle East,consumption,Australia,0.8186709630368385
+processing,RoW Middle East,consumption,Belgium,0.7216555986776986
+processing,RoW Middle East,consumption,Brazil,0.7213440972667471
+processing,RoW Middle East,consumption,Bulgaria,0.06713611928200204
+processing,RoW Middle East,consumption,Canada,0.6499403137675348
+processing,RoW Middle East,consumption,China,8.316382964960939
+processing,RoW Middle East,consumption,Germany,1.8164025330487394
+processing,RoW Middle East,consumption,India,10.14114624206304
+processing,RoW Middle East,consumption,Indonesia,0.9228529928945297
+processing,RoW Middle East,consumption,Japan,2.4466129427784757
+processing,RoW Middle East,consumption,Mexico,0.38284860092245954
+processing,RoW Middle East,consumption,Netherlands,0.6744373278711222
+processing,RoW Middle East,consumption,Poland,0.25356627959158
+processing,RoW Middle East,consumption,South Korea,1.500652484549405
+processing,RoW Middle East,consumption,Russia,0.7473225654764392
+processing,RoW Middle East,consumption,Spain,0.8943705670476301
+processing,RoW Middle East,consumption,USA,6.727375697687118
+processing,RoW Middle East,consumption,RoW Asia Pacific,9.300912869746274
+processing,RoW Middle East,consumption,RoW America,1.5240357061891254
+processing,RoW Middle East,consumption,RoW Africa,4.86504494264736
+processing,RoW Middle East,consumption,RoW Middle East,49.00584731350886
+processing,RoW Middle East,consumption,RoW Europe,9.687743631192228
+processing,RoW Europe,consumption,Australia,1.806410094796393
+processing,RoW Europe,consumption,Belgium,2.152530615462717
+processing,RoW Europe,consumption,Brazil,2.307962615304313
+processing,RoW Europe,consumption,Bulgaria,0.8807000455473911
+processing,RoW Europe,consumption,Canada,1.75052683678342
+processing,RoW Europe,consumption,China,27.73877258141863
+processing,RoW Europe,consumption,Germany,20.94402638779063
+processing,RoW Europe,consumption,India,3.6771226213071704
+processing,RoW Europe,consumption,Indonesia,1.1569149874772955
+processing,RoW Europe,consumption,Japan,6.05455645085326
+processing,RoW Europe,consumption,Mexico,1.2635960049846724
+processing,RoW Europe,consumption,Netherlands,2.3154760556047287
+processing,RoW Europe,consumption,Poland,3.6829169020901444
+processing,RoW Europe,consumption,South Korea,2.521702911866219
+processing,RoW Europe,consumption,Russia,9.871645117569198
+processing,RoW Europe,consumption,Spain,4.082548356651681
+processing,RoW Europe,consumption,USA,16.238542555902143
+processing,RoW Europe,consumption,RoW Asia Pacific,19.65732672292547
+processing,RoW Europe,consumption,RoW America,4.4552903131203685
+processing,RoW Europe,consumption,RoW Africa,6.7382927803082815
+processing,RoW Europe,consumption,RoW Middle East,14.751495428854364
+processing,RoW Europe,consumption,RoW Europe,244.62034548065884
+consumption,Australia,End-use,agrifood,1.97879834764435
+consumption,Australia,End-use,mining,22.65665311493106
+consumption,Australia,End-use,manufacturing,10.341996376227625
+consumption,Australia,End-use,machinery_electronics,14.063083581860308
+consumption,Australia,End-use,auto,7.117216150133906
+consumption,Australia,End-use,electricity,0.7390782729224793
+consumption,Australia,End-use,gas_water,0.0585059023943047
+consumption,Australia,End-use,construction,24.65238942344704
+consumption,Australia,End-use,service,23.24400730758948
+consumption,Australia,End-use,transportation,1.8724235179321007
+consumption,Australia,End-use,waste,0.6163314214770228
+consumption,Australia,End-use,other_sec,2.3225578882401834
+consumption,Belgium,End-use,agrifood,1.312235081409667
+consumption,Belgium,End-use,mining,0.9513560071636598
+consumption,Belgium,End-use,manufacturing,13.373078847523034
+consumption,Belgium,End-use,machinery_electronics,4.555363419652579
+consumption,Belgium,End-use,auto,2.018581223973034
+consumption,Belgium,End-use,electricity,0.352739139263452
+consumption,Belgium,End-use,gas_water,0.043680581740632406
+consumption,Belgium,End-use,construction,7.18438487165784
+consumption,Belgium,End-use,service,5.112794804049445
+consumption,Belgium,End-use,transportation,0.22370237731934636
+consumption,Belgium,End-use,waste,0.026791301048214144
+consumption,Belgium,End-use,other_sec,0.3800568588376999
+consumption,Brazil,End-use,agrifood,6.119517602006645
+consumption,Brazil,End-use,mining,7.556275359230005
+consumption,Brazil,End-use,manufacturing,29.256970362806527
+consumption,Brazil,End-use,machinery_electronics,63.615038708271015
+consumption,Brazil,End-use,auto,18.366246239524195
+consumption,Brazil,End-use,electricity,0.037819167364320054
+consumption,Brazil,End-use,gas_water,0.15991065022496265
+consumption,Brazil,End-use,construction,28.251266286706876
+consumption,Brazil,End-use,service,14.237059359591559
+consumption,Brazil,End-use,transportation,2.284832252757905
+consumption,Brazil,End-use,waste,1.995609623560798
+consumption,Brazil,End-use,other_sec,0.6636341501153303
+consumption,Bulgaria,End-use,agrifood,0.7640333993448762
+consumption,Bulgaria,End-use,mining,2.5950932463237946
+consumption,Bulgaria,End-use,manufacturing,3.6564884532851964
+consumption,Bulgaria,End-use,machinery_electronics,1.7630834219173073
+consumption,Bulgaria,End-use,auto,0.25842294471793836
+consumption,Bulgaria,End-use,electricity,0.5134391766729863
+consumption,Bulgaria,End-use,gas_water,0.22399701968124675
+consumption,Bulgaria,End-use,construction,8.398193126606854
+consumption,Bulgaria,End-use,service,3.1737817212837953
+consumption,Bulgaria,End-use,transportation,0.44366464619871726
+consumption,Bulgaria,End-use,waste,0.1607816191306583
+consumption,Bulgaria,End-use,other_sec,0.24159098439670657
+consumption,Canada,End-use,agrifood,3.571235224592879
+consumption,Canada,End-use,mining,56.140618978051954
+consumption,Canada,End-use,manufacturing,30.62656826710637
+consumption,Canada,End-use,machinery_electronics,20.32028513903444
+consumption,Canada,End-use,auto,10.417169868528084
+consumption,Canada,End-use,electricity,0.228578553640919
+consumption,Canada,End-use,gas_water,0.6610926808111414
+consumption,Canada,End-use,construction,22.520281582005595
+consumption,Canada,End-use,service,34.22155957904589
+consumption,Canada,End-use,transportation,0.677531999027293
+consumption,Canada,End-use,waste,0.042130686504834675
+consumption,Canada,End-use,other_sec,3.247502073003839
+consumption,China,End-use,agrifood,36.440409425913934
+consumption,China,End-use,mining,3.5194178530289624
+consumption,China,End-use,manufacturing,82.81818264527222
+consumption,China,End-use,machinery_electronics,834.7087163597033
+consumption,China,End-use,auto,169.49866094313586
+consumption,China,End-use,electricity,1.514466437737582
+consumption,China,End-use,gas_water,2.1715168742175686
+consumption,China,End-use,construction,1542.9903292730924
+consumption,China,End-use,service,234.9924564856147
+consumption,China,End-use,transportation,4.371987844573645
+consumption,China,End-use,waste,0.047623290324386724
+consumption,China,End-use,other_sec,31.895930532775672
+consumption,Germany,End-use,agrifood,5.196893734087692
+consumption,Germany,End-use,mining,1.988271088330119
+consumption,Germany,End-use,manufacturing,44.44043030247609
+consumption,Germany,End-use,machinery_electronics,45.78860446626539
+consumption,Germany,End-use,auto,18.84066742920194
+consumption,Germany,End-use,electricity,2.870071931368979
+consumption,Germany,End-use,gas_water,1.4793435816650133
+consumption,Germany,End-use,construction,22.561947188913923
+consumption,Germany,End-use,service,20.373771359015674
+consumption,Germany,End-use,transportation,1.8903362421518433
+consumption,Germany,End-use,waste,1.254617703467287
+consumption,Germany,End-use,other_sec,1.6560879356046818
+consumption,India,End-use,agrifood,9.795714340193163
+consumption,India,End-use,mining,4.255230033130684
+consumption,India,End-use,manufacturing,151.4131440345825
+consumption,India,End-use,machinery_electronics,102.77828775895352
+consumption,India,End-use,auto,11.378188558387034
+consumption,India,End-use,electricity,2.558520574805145
+consumption,India,End-use,gas_water,0.3515656413783864
+consumption,India,End-use,construction,77.93351913288716
+consumption,India,End-use,service,9.28622575888544
+consumption,India,End-use,transportation,1.596108590631081
+consumption,India,End-use,waste,0.3302206543780351
+consumption,India,End-use,other_sec,0.36481594580159565
+consumption,Indonesia,End-use,agrifood,1.5703109489539808
+consumption,Indonesia,End-use,mining,80.97256323916386
+consumption,Indonesia,End-use,manufacturing,15.325953834288587
+consumption,Indonesia,End-use,machinery_electronics,11.561171645441817
+consumption,Indonesia,End-use,auto,1.8985110874518436
+consumption,Indonesia,End-use,electricity,0.14213903490172536
+consumption,Indonesia,End-use,gas_water,0.0201962449028908
+consumption,Indonesia,End-use,construction,57.80861654295566
+consumption,Indonesia,End-use,service,3.2019151366290908
+consumption,Indonesia,End-use,transportation,0.29623700608217807
+consumption,Indonesia,End-use,waste,1.0919888773422282
+consumption,Indonesia,End-use,other_sec,2.3247408777390834
+consumption,Japan,End-use,agrifood,11.838807675070823
+consumption,Japan,End-use,mining,0.9400149990136974
+consumption,Japan,End-use,manufacturing,15.291747124959553
+consumption,Japan,End-use,machinery_electronics,77.56531434172383
+consumption,Japan,End-use,auto,34.97675588498893
+consumption,Japan,End-use,electricity,1.727342298081841
+consumption,Japan,End-use,gas_water,0.5344535577059459
+consumption,Japan,End-use,construction,59.67179736776442
+consumption,Japan,End-use,service,26.21455714114267
+consumption,Japan,End-use,transportation,2.083356190430912
+consumption,Japan,End-use,waste,0.26343875687246826
+consumption,Japan,End-use,other_sec,8.499964772894971
+consumption,Mexico,End-use,agrifood,2.931693915483502
+consumption,Mexico,End-use,mining,279.60748181368035
+consumption,Mexico,End-use,manufacturing,16.638281311589694
+consumption,Mexico,End-use,machinery_electronics,18.046125508947213
+consumption,Mexico,End-use,auto,4.111655479940423
+consumption,Mexico,End-use,electricity,0.5263577915434615
+consumption,Mexico,End-use,gas_water,0.06112755173790453
+consumption,Mexico,End-use,construction,27.450474225547833
+consumption,Mexico,End-use,service,5.002537869072356
+consumption,Mexico,End-use,transportation,1.8039178674640233
+consumption,Mexico,End-use,waste,0.018731581928896405
+consumption,Mexico,End-use,other_sec,0.4524249670236237
+consumption,Netherlands,End-use,agrifood,1.5039188516586133
+consumption,Netherlands,End-use,mining,0.6080336771759993
+consumption,Netherlands,End-use,manufacturing,8.314601681926186
+consumption,Netherlands,End-use,machinery_electronics,6.065428256061888
+consumption,Netherlands,End-use,auto,1.8149778056388741
+consumption,Netherlands,End-use,electricity,0.3094185048270003
+consumption,Netherlands,End-use,gas_water,0.057211179939735235
+consumption,Netherlands,End-use,construction,8.51046883752958
+consumption,Netherlands,End-use,service,7.859011376140179
+consumption,Netherlands,End-use,transportation,0.6873759747627509
+consumption,Netherlands,End-use,waste,0.13900520346724352
+consumption,Netherlands,End-use,other_sec,0.829601458268253
+consumption,Poland,End-use,agrifood,4.02641342980858
+consumption,Poland,End-use,mining,5.0644428924466185
+consumption,Poland,End-use,manufacturing,15.684885403435548
+consumption,Poland,End-use,machinery_electronics,7.8889227432714835
+consumption,Poland,End-use,auto,3.448073255382252
+consumption,Poland,End-use,electricity,1.646388774674198
+consumption,Poland,End-use,gas_water,1.4308762458711872
+consumption,Poland,End-use,construction,15.712756611611645
+consumption,Poland,End-use,service,13.742308527542049
+consumption,Poland,End-use,transportation,1.5341902325243213
+consumption,Poland,End-use,waste,0.32822187296095495
+consumption,Poland,End-use,other_sec,0.6290776628560177
+consumption,South Korea,End-use,agrifood,2.9519410465083378
+consumption,South Korea,End-use,mining,0.4954988539451293
+consumption,South Korea,End-use,manufacturing,8.113760363722909
+consumption,South Korea,End-use,machinery_electronics,48.592126475962914
+consumption,South Korea,End-use,auto,11.593050277420213
+consumption,South Korea,End-use,electricity,0.9156669179591088
+consumption,South Korea,End-use,gas_water,0.19592210193198112
+consumption,South Korea,End-use,construction,37.91147107816684
+consumption,South Korea,End-use,service,19.84141346319805
+consumption,South Korea,End-use,transportation,1.3387657132842627
+consumption,South Korea,End-use,waste,0.3012074764313395
+consumption,South Korea,End-use,other_sec,3.4120634492259683
+consumption,Russia,End-use,agrifood,23.355283954035603
+consumption,Russia,End-use,mining,195.36907809862666
+consumption,Russia,End-use,manufacturing,81.06704568865867
+consumption,Russia,End-use,machinery_electronics,36.893552361528926
+consumption,Russia,End-use,auto,5.879511837603346
+consumption,Russia,End-use,electricity,2.8227950205259145
+consumption,Russia,End-use,gas_water,0.8848401709205685
+consumption,Russia,End-use,construction,40.49358922007734
+consumption,Russia,End-use,service,27.581491202190442
+consumption,Russia,End-use,transportation,2.493011532700797
+consumption,Russia,End-use,waste,1.840044836579539
+consumption,Russia,End-use,other_sec,1.4811061853318555
+consumption,Spain,End-use,agrifood,3.05687943620833
+consumption,Spain,End-use,mining,1.568728601588561
+consumption,Spain,End-use,manufacturing,11.682685358519805
+consumption,Spain,End-use,machinery_electronics,8.769043880921238
+consumption,Spain,End-use,auto,4.089951164479261
+consumption,Spain,End-use,electricity,0.683507915540501
+consumption,Spain,End-use,gas_water,0.5651918643938143
+consumption,Spain,End-use,construction,12.116545559070431
+consumption,Spain,End-use,service,11.264641010282713
+consumption,Spain,End-use,transportation,0.7178811910224436
+consumption,Spain,End-use,waste,0.17606633502432642
+consumption,Spain,End-use,other_sec,1.5350049757001138
+consumption,USA,End-use,agrifood,16.380267274590416
+consumption,USA,End-use,mining,22.644260262965975
+consumption,USA,End-use,manufacturing,90.12398392612411
+consumption,USA,End-use,machinery_electronics,158.32792973736488
+consumption,USA,End-use,auto,97.46816204482985
+consumption,USA,End-use,electricity,1.460369154484717
+consumption,USA,End-use,gas_water,2.686543256728591
+consumption,USA,End-use,construction,56.78521464841624
+consumption,USA,End-use,service,422.0625583555785
+consumption,USA,End-use,transportation,3.239986821818938
+consumption,USA,End-use,waste,2.759701478804664
+consumption,USA,End-use,other_sec,93.44707702663611
+consumption,RoW Asia Pacific,End-use,agrifood,14.589425947999338
+consumption,RoW Asia Pacific,End-use,mining,348.335388162012
+consumption,RoW Asia Pacific,End-use,manufacturing,84.86949328701178
+consumption,RoW Asia Pacific,End-use,machinery_electronics,246.54123059187563
+consumption,RoW Asia Pacific,End-use,auto,29.25223964256252
+consumption,RoW Asia Pacific,End-use,electricity,3.932692580049161
+consumption,RoW Asia Pacific,End-use,gas_water,1.6760123810503402
+consumption,RoW Asia Pacific,End-use,construction,145.9683878363129
+consumption,RoW Asia Pacific,End-use,service,62.94561871196048
+consumption,RoW Asia Pacific,End-use,transportation,3.38553863646301
+consumption,RoW Asia Pacific,End-use,waste,2.0662393614315677
+consumption,RoW Asia Pacific,End-use,other_sec,6.769210181377079
+consumption,RoW America,End-use,agrifood,8.288405860668174
+consumption,RoW America,End-use,mining,66.31691901579762
+consumption,RoW America,End-use,manufacturing,41.34060589500759
+consumption,RoW America,End-use,machinery_electronics,53.95834268374379
+consumption,RoW America,End-use,auto,25.296347496004824
+consumption,RoW America,End-use,electricity,1.0330300284226357
+consumption,RoW America,End-use,gas_water,0.46747871914572103
+consumption,RoW America,End-use,construction,70.33092267687968
+consumption,RoW America,End-use,service,44.24035180188063
+consumption,RoW America,End-use,transportation,2.1863542092943993
+consumption,RoW America,End-use,waste,0.8059298397080714
+consumption,RoW America,End-use,other_sec,4.05553361501704
+consumption,RoW Africa,End-use,agrifood,24.235418621495175
+consumption,RoW Africa,End-use,mining,104.8994628567227
+consumption,RoW Africa,End-use,manufacturing,47.08257382840937
+consumption,RoW Africa,End-use,machinery_electronics,47.7652557975746
+consumption,RoW Africa,End-use,auto,20.258778838505684
+consumption,RoW Africa,End-use,electricity,8.815194934333086
+consumption,RoW Africa,End-use,gas_water,5.516023169871048
+consumption,RoW Africa,End-use,construction,83.85275622372018
+consumption,RoW Africa,End-use,service,85.24169069609931
+consumption,RoW Africa,End-use,transportation,9.62149165494828
+consumption,RoW Africa,End-use,waste,8.942703484723591
+consumption,RoW Africa,End-use,other_sec,13.415975624734918
+consumption,RoW Middle East,End-use,agrifood,6.887464965584755
+consumption,RoW Middle East,End-use,mining,16.144834099872774
+consumption,RoW Middle East,End-use,manufacturing,43.40323467280585
+consumption,RoW Middle East,End-use,machinery_electronics,69.52648324851319
+consumption,RoW Middle East,End-use,auto,23.812497108971975
+consumption,RoW Middle East,End-use,electricity,2.0361769658780124
+consumption,RoW Middle East,End-use,gas_water,1.059813561446568
+consumption,RoW Middle East,End-use,construction,100.95701187319385
+consumption,RoW Middle East,End-use,service,44.91828906158918
+consumption,RoW Middle East,End-use,transportation,1.815806814762543
+consumption,RoW Middle East,End-use,waste,1.0656733463691808
+consumption,RoW Middle East,End-use,other_sec,4.006886177954767
+consumption,RoW Europe,End-use,agrifood,23.810342154499843
+consumption,RoW Europe,End-use,mining,62.45875018288637
+consumption,RoW Europe,End-use,manufacturing,132.47773738791713
+consumption,RoW Europe,End-use,machinery_electronics,133.59946380189473
+consumption,RoW Europe,End-use,auto,47.83314541510439
+consumption,RoW Europe,End-use,electricity,8.225853531283413
+consumption,RoW Europe,End-use,gas_water,3.6742249381764216
+consumption,RoW Europe,End-use,construction,150.19543814812934
+consumption,RoW Europe,End-use,service,114.63655457794589
+consumption,RoW Europe,End-use,transportation,13.991062334129836
+consumption,RoW Europe,End-use,waste,1.6474999714674627
+consumption,RoW Europe,End-use,other_sec,11.989056932102239
